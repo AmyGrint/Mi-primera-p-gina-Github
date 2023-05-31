@@ -1,3 +1,7 @@
+.greeting {
+  text-align: center;
+}
+
 main {
   min-height: 80vh;
 }
